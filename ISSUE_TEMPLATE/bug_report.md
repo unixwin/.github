@@ -1,36 +1,22 @@
 ---
 name: Bug Report
-about: Report a bug to help us improve UNIXWIN projects
-title: ''
+about: Report a bug
+title: '[BUG] '
 labels: bug
-assignees: ''
 ---
 
-## Describe the Bug
+**Describe the bug**
+A clear description of the bug.
 
-A clear and concise description of what the bug is.
+**To reproduce**
+Steps to reproduce the behavior.
 
-## To Reproduce
+**Expected behavior**
+What you expected to happen.
 
-Steps to reproduce the behavior:
-1. 
-2. 
-3. 
+**Environment**
+- OS: [e.g., Windows 11]
+- niubash version: [e.g., 1.0.0]
 
-## Expected Behavior
-
-A clear and concise description of what you expected to happen.
-
-## Screenshots
-
-If applicable, add screenshots to help explain your problem.
-
-## Environment
-
-- OS: [e.g., Windows 10, Windows 11]
-- Version: [e.g., niubash 1.0.0]
-- Other relevant details
-
-## Additional Context
-
-Add any other context about the problem here.
+**Additional context**
+Any other information.
